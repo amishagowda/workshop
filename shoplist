@@ -1,0 +1,41 @@
+<html>
+    <title>MY SHOPPING WEBSITE</title>
+    <head>
+        <link rel="stylesheet" href="ami.css">
+    </head>
+    <link rel="stylesheet" type="text/css" href="ami1.css">
+    <body style="background-image: url(https://d928547dv83jr.cloudfront.net/media/image/thumbnail/by-md5/d/1/d1426f60072e7d1d269d202847696eea/c890a3e8_c601_11e7_8cb1_0649c0e70453.jpeg);background-size: cover; color: white" background="transparent">
+    <header>
+        <div class="row">
+            <div class="logo">
+                <img src="https://m.media-amazon.com/images/S/abs-image-upload-na/0/AmazonStores/ATVPDKIKX0DER/e8f7084fad4d66b53e3a743a9898adfc.w1500.h316.jpg">
+            </div>
+            <ul class="main-nav">
+                <li class="active"><a href="https://www.shein.in/">HOME</a></li>
+                <li><a href="https://www.shein.in/member-image-list.html?ici=in_tab01navbar09">ABOUT</a></li>
+                <li><a href="https://www.shein.in/giftcard.html?ici=in_tab01navbar08">CONTACT</a></li>
+                <li><a href="https://www.shein.in/Plus-Size-c-1888.html?icn=plus-size&ici=in_tab01navbar05">NEWS</a></li>
+                <li><a href="https://www.shein.in/daily-new.html?cat_ids=2030,2032&ici=in_tab01navbar01">FAQ</a></li>
+            </ul>
+            </div>
+    <body>
+           <br>
+        <h1 class="a"><p><b>Sign Up form:</b></p></h1>
+        
+        <div class="tee">
+                <form >
+                        First Name:<input type="text" placeholder="First name" required><br> <br>
+                        Last Name:<input type="text" placeholder="Last name" required><br><br>
+                        *Email Address:<input type="email" placeholder="Enter Email" required><br> <br>
+                        Mobile Number:<input type="tel" placeholder="Enter your 10 digit number" required><br> <br>
+                        Password:<input type="password" required minlength="4" maxlength="20" placeholder="Password"><br><br>
+                        Re-Enter Password:<input type="password" required minlength="4" maxlength="20" placeholder="Confirm Password"><br><br>
+                        <input type="checkbox"> Do you agree to the Terms and Conditions?<br><br>
+                        <button type="submit" class="registerbtn">Register<a href="https://hack.me/"></a></button>
+                 </form>
+        </div>
+
+
+        
+    </body>
+</html>
